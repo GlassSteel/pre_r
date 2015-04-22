@@ -6,6 +6,9 @@
             "name": "Paul Glass-Steel",
             "email": "paul_gs@unc.edu"
         }
-    ]
+    ],
+    "autoload": {
+        "files": ["pre_r.php"]
+    }
 }
 
